@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kirinwang1125
 - 👀 I’m interested in python, sql
 - 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... PM
 
 <!---
