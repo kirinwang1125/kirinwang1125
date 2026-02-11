@@ -86,6 +86,4 @@ Apple, and Apple’s subsidiaries, are third-party beneficiaries of this EULA, a
 16. Contact
 For questions, complaints, or claims about this EULA or the Licensed Application, contact:
 Kirin Wang
-[Your Address, e.g., Tung Chung, Islands, Hong Kong]
 Email: kirinwang1125@gmail.com
-Telephone: [Your Telephone Number, if available]
