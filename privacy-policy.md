@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**ThinkDeck — AI-Powered Decision Intelligence**
+**ThinkCard AI — AI-Powered Decision Intelligence**
 
 *Last Updated: March 2, 2026*
 
@@ -8,9 +8,9 @@
 
 ## 1. Introduction
 
-ThinkDeck ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the ThinkDeck mobile application (the "App").
+ThinkCard AI ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the ThinkCard AI mobile application (the "App").
 
-By using ThinkDeck, you agree to the collection and use of information in accordance with this policy.
+By using ThinkCard AI, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
@@ -52,7 +52,7 @@ We use the information we collect to:
 
 ### 4.1 Google Gemini API
 
-ThinkDeck uses Google's Gemini API to power:
+ThinkCard AI uses Google's Gemini API to power:
 - The AI Strategic Agent (multi-turn conversational analysis)
 - Strategy report generation
 - AI-powered structural validation and coaching
@@ -76,7 +76,7 @@ We use Supabase for optional cloud data storage and synchronization. Data stored
 
 - **Local Storage**: Your decision sessions, analysis data, and generated reports are stored locally on your device using Swift's native data persistence.
 - **Encryption**: All data transmitted between the App and third-party services uses TLS/SSL encryption.
-- **No External Accounts**: ThinkDeck does not require you to create an account with us. Your data belongs to you.
+- **No External Accounts**: ThinkCard AI does not require you to create an account with us. Your data belongs to you.
 
 ---
 
@@ -101,7 +101,7 @@ You have the right to:
 
 ## 8. Children's Privacy
 
-ThinkDeck is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+ThinkCard AI is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ---
 
@@ -119,4 +119,4 @@ If you have questions or concerns about this Privacy Policy, please contact us a
 
 ---
 
-*ThinkDeck — Think Clearly. Decide Confidently.*
+*ThinkCard AI — Think Clearly. Decide Confidently.*
