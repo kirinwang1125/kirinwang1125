@@ -1,6 +1,6 @@
 # Terms of Use
 
-**ThinkDeck — AI-Powered Decision Intelligence**
+**ThinkCard AI — AI-Powered Decision Intelligence**
 
 *Last Updated: March 2, 2026*
 
@@ -8,13 +8,13 @@
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using ThinkDeck (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using ThinkCard AI (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ---
 
 ## 2. Description of Service
 
-ThinkDeck is a mobile application that provides structured decision-making tools powered by professional strategy models and artificial intelligence. The App offers:
+ThinkCard AI is a mobile application that provides structured decision-making tools powered by professional strategy models and artificial intelligence. The App offers:
 
 - **8 Thinking Models**: SWOT Analysis, 5 Whys, Decision Matrix, First Principles, Six Thinking Hats, Gap Analysis, Pyramid Principle, and Regret Minimization.
 - **AI Strategic Agent**: A multi-turn conversational AI consultant that dynamically applies thinking models through dialogue to help you analyze decisions.
@@ -52,7 +52,7 @@ Refunds are handled by Apple according to their [refund policy](https://support.
 
 ## 4. User Conduct
 
-You agree to use ThinkDeck only for lawful purposes. You shall not:
+You agree to use ThinkCard AI only for lawful purposes. You shall not:
 
 - Use the App to make decisions involving illegal activities.
 - Attempt to reverse-engineer, decompile, or disassemble the App.
@@ -66,7 +66,7 @@ You agree to use ThinkDeck only for lawful purposes. You shall not:
 
 ### 5.1 Not Professional Advice
 
-ThinkDeck provides AI-powered decision support tools for **educational and personal development purposes only**. The AI Strategic Agent, strategy reports, and all AI-generated content are:
+ThinkCard AI provides AI-powered decision support tools for **educational and personal development purposes only**. The AI Strategic Agent, strategy reports, and all AI-generated content are:
 
 - **Not** professional financial, legal, medical, or career advice.
 - **Not** a substitute for consultation with qualified professionals.
@@ -74,7 +74,7 @@ ThinkDeck provides AI-powered decision support tools for **educational and perso
 
 ### 5.2 Your Responsibility
 
-You are solely responsible for any decisions you make based on the App's output. ThinkDeck and its developers accept no liability for outcomes resulting from decisions made using the App.
+You are solely responsible for any decisions you make based on the App's output. ThinkCard AI and its developers accept no liability for outcomes resulting from decisions made using the App.
 
 ### 5.3 AI Limitations
 
@@ -87,7 +87,7 @@ You are solely responsible for any decisions you make based on the App's output.
 
 ### 6.1 Our IP
 
-ThinkDeck, including its design, interface, thinking model frameworks, AI prompts, and branding, is the intellectual property of ThinkDeck and is protected by applicable copyright and trademark laws.
+ThinkCard AI, including its design, interface, thinking model frameworks, AI prompts, and branding, is the intellectual property of ThinkCard AI and is protected by applicable copyright and trademark laws.
 
 ### 6.2 Your Content
 
@@ -97,13 +97,13 @@ You retain ownership of all content you create within the App (decision inputs, 
 
 ## 7. Privacy
 
-Your use of ThinkDeck is also governed by our [Privacy Policy](https://github.com/kirinwang1125/thinkdeck-legal/blob/main/privacy-policy.md). Please review it to understand our data practices.
+Your use of ThinkCard AI is also governed by our [Privacy Policy](https://github.com/kirinwang1125/kirinwang1125/blob/main/privacy-policy.md). Please review it to understand our data practices.
 
 ---
 
 ## 8. Disclaimer of Warranties
 
-ThinkDeck is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, expressed or implied, regarding:
+ThinkCard AI is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, expressed or implied, regarding:
 
 - The accuracy or reliability of AI-generated content.
 - Uninterrupted or error-free operation of the App.
@@ -113,7 +113,7 @@ ThinkDeck is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warrant
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by applicable law, ThinkDeck and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or business opportunities, arising from your use of the App.
+To the maximum extent permitted by applicable law, ThinkCard AI and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or business opportunities, arising from your use of the App.
 
 ---
 
@@ -131,7 +131,7 @@ We may update these Terms from time to time. We will notify you of material chan
 
 ## 12. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which ThinkDeck operates, without regard to conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which ThinkCard AI operates, without regard to conflict of law principles.
 
 ---
 
@@ -143,4 +143,4 @@ If you have questions about these Terms of Use, please contact us at:
 
 ---
 
-*ThinkDeck — Think Clearly. Decide Confidently.*
+*ThinkCard AI — Think Clearly. Decide Confidently.*
