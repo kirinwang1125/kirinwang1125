@@ -21,14 +21,13 @@ Survival is an AI-driven post-apocalyptic survival text adventure game. The App 
 
 ### 4.1 Token System
 - The App uses a token-based system for game actions.
-- New users receive 20 free tokens upon installation.
+- New users receive 10 free tokens upon installation.
 - Additional tokens can be purchased through Apple's In-App Purchase system.
 
 ### 4.2 Pricing
-- **Micro Energy**: $0.99 — 10 story action tokens
+- **Micro Energy**: $2.99 — 20 story action tokens
 - **Core Energy**: $4.99 — 50 action tokens + 20 survival points
-- **Eternal Core**: $9.99/month — Unlimited actions + monthly survival points
-- **Survival Points**: $1.99 — 100 survival points
+- **Eternal Core**: $9.99 - 100 tokens
 
 ### 4.3 Purchase Terms
 - All purchases are processed through Apple's App Store and are subject to Apple's terms and conditions.
