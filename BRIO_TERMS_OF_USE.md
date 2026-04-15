@@ -25,8 +25,8 @@ These Terms of Use ("Terms") constitute a legally binding agreement between you 
 
 ### 1.2 Age Requirement
 
-You must be **at least 18 years old** to use Brio. By using the Services, you represent and warrant that:
-- You are 18 years of age or older
+You must be **at least 16 years old** to use Brio. By using the Services, you represent and warrant that:
+- You are 16 years of age or older
 - You have the legal capacity to enter into these Terms
 - All information you provide is accurate and truthful
 
@@ -321,11 +321,7 @@ We are not liable for failures due to events beyond our reasonable control.
 
 <div align="center">
 
-### 📧 support@brio.app
-
-**Brio Legal Department**  
-[Your Company Address]  
-[City, State, ZIP Code]
+### 📧 kirinwang1125@gmail.com
 
 </div>
 
@@ -376,7 +372,7 @@ Your use of the app is also subject to the [Apple Media Services Terms and Condi
 
 ### 15.1 App Store Rating
 
-Brio is rated **17+** on the App Store for:
+Brio is rated **16+** on the App Store for:
 - Frequent/Intense Mature/Suggestive Themes
 - Infrequent/Mild Sexual Content and Nudity
 - Infrequent/Mild Profanity or Crude Humor
@@ -410,8 +406,6 @@ From time to time, we may offer beta or experimental features:
 **Thank you for using Brio responsibly.**
 
 *Remember: Brio is a story. Enjoy the narrative, but live your real life.*
-
-[Privacy Policy](./PRIVACY_POLICY.md) | [Support](mailto:support@brio.app) | [App Store](https://apps.apple.com/app/brio)
 
 **© 2026 Brio, Inc. All rights reserved.**
 
