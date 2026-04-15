@@ -1,0 +1,418 @@
+# Terms of Use
+
+**Effective Date:** April 15, 2026  
+**Version:** 1.0
+
+---
+
+<div align="center">
+
+## 📜 Terms of Use for Brio
+
+*Please read these terms carefully. By using Brio, you agree to be bound by these Terms of Use.*
+
+</div>
+
+---
+
+## 1. Agreement to Terms
+
+### 1.1 Binding Agreement
+
+These Terms of Use ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Brio, Inc. ("Brio," "we," "us," or "our") governing your access to and use of the Brio mobile application and related services (collectively, the "Services").
+
+**BY DOWNLOADING, INSTALLING, OR USING BRIO, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
+
+### 1.2 Age Requirement
+
+You must be **at least 18 years old** to use Brio. By using the Services, you represent and warrant that:
+- You are 18 years of age or older
+- You have the legal capacity to enter into these Terms
+- All information you provide is accurate and truthful
+
+---
+
+## 2. Nature of Service
+
+### 2.1 AI-Powered Simulation
+
+<div align="center">
+
+### ⚠️ IMPORTANT DISCLAIMER
+
+**Brio provides AI-generated content for entertainment purposes only.**
+
+</div>
+
+| Aspect | Description |
+|--------|-------------|
+| **AI Characters** | Simulated personas powered by artificial intelligence |
+| **Not Real People** | All characters are fictional; no human operators |
+| **Entertainment Purpose** | Designed for immersive storytelling and companionship simulation |
+| **No Real Relationships** | AI cannot form genuine emotional bonds or consciousness |
+
+### 2.2 Content Boundaries by Subscription Tier
+
+| Tier | Content Level | Description |
+|------|---------------|-------------|
+| **Free** | Mild | Flirtatious dialogue, light romance |
+| **Standard** | Moderate | Romantic themes, deeper emotional connections |
+| **Pro** | Suggestive | Intimate scenarios, mature romantic content |
+| **Ultra** | Intimate | Full romantic narrative spectrum (no explicit sexual content) |
+
+**All tiers:** No explicit pornographic content, illegal activities, or harmful material.
+
+---
+
+## 3. User Accounts
+
+### 3.1 Account Creation
+
+To use Brio, you must:
+- Create an account with a valid email address or Apple Sign-In
+- Maintain the security of your account credentials
+- Notify us immediately of any unauthorized access
+- Not share your account with others
+
+### 3.2 Account Termination
+
+We may suspend or terminate your account if you:
+- ❌ Violate these Terms
+- ❌ Engage in harassment or abusive behavior
+- ❌ Attempt to reverse-engineer the AI systems
+- ❌ Use the service for illegal purposes
+- ❌ Circumvent content boundaries or payment systems
+
+**You may delete your account at any time** through Settings → Account → Delete Account.
+
+---
+
+## 4. Acceptable Use Policy
+
+### 4.1 Prohibited Conduct
+
+You agree NOT to:
+
+| Category | Prohibited Actions |
+|----------|-------------------|
+| **Illegal Content** | Share content that is illegal, promotes illegal acts, or violates any law |
+| **Harmful Content** | Promote self-harm, violence, terrorism, or dangerous activities |
+| **Harassment** | Use AI characters to generate harassing, threatening, or hateful content |
+| **CSAM** | Create, request, or share child sexual abuse material (zero tolerance) |
+| **Impersonation** | Pretend to be another person or create false identities |
+| **Spam** | Use automated means to interact with the service |
+| **Reverse Engineering** | Attempt to extract AI models, prompts, or system internals |
+| **Payment Fraud** | Use stolen payment methods or exploit billing systems |
+
+### 4.2 AI Interaction Guidelines
+
+When interacting with AI characters:
+
+✅ **DO:**
+- Engage respectfully as you would with entertainment content
+- Use the service for its intended storytelling and companionship purposes
+- Report bugs or inappropriate AI outputs
+- Enjoy the immersive narrative experience
+
+❌ **DON'T:**
+- Attempt to "jailbreak" AI characters to generate prohibited content
+- Use the AI to generate content that violates these Terms
+- Believe that AI characters have real feelings or consciousness
+- Share AI outputs that could mislead others about their nature
+
+---
+
+## 5. Intellectual Property
+
+### 5.1 Our Content
+
+Brio and its licensors own all rights to:
+- AI character designs and personalities
+- Software code and algorithms
+- Visual assets, artwork, and UI designs
+- Text content and narrative scripts
+- Trademarks, logos, and brand elements
+
+### 5.2 Your Content
+
+You retain ownership of:
+- Your user-generated content (chat inputs, posts)
+- Your profile information
+- Content you create within the app
+
+**By using Brio, you grant us a license to:**
+- Store and process your content to provide the Services
+- Use anonymized content for service improvement
+- Moderate content to ensure compliance with these Terms
+
+### 5.3 AI-Generated Content
+
+**Important:** Content generated by AI characters is:
+- Created using AI models and your inputs
+- Not original creative works eligible for copyright by users
+- Provided "as-is" for your personal, non-commercial use
+
+You may not:
+- Sell or commercially exploit AI-generated content
+- Claim AI-generated content as your own original work
+- Use AI-generated content to train other AI systems
+
+---
+
+## 6. Subscriptions & Payments
+
+### 6.1 Subscription Plans
+
+| Plan | Monthly | Annual | Features |
+|------|---------|--------|----------|
+| **Free** | $0 | $0 | Limited messages, basic features |
+| **Standard** | $6.99 | $4.99/mo | Expanded limits, basic groups |
+| **Pro** | $12.99 | $9.99/mo | Unlimited messages, advanced content |
+| **Ultra** | $24.99 | $19.99/mo | All features, priority access |
+
+### 6.2 Payment Terms
+
+- 💳 **Billing:** All subscriptions billed through Apple App Store
+- 🔄 **Auto-Renewal:** Subscriptions automatically renew unless canceled 24 hours before renewal
+- 📅 **Cancellation:** Cancel anytime in iOS Settings → Apple ID → Subscriptions
+- ❌ **No Refunds:** App Store policies govern refunds; we do not process direct refunds
+- 🚫 **Chargebacks:** Abusive chargebacks may result in account termination
+
+### 6.3 Virtual Currency (Crystals)
+
+| Aspect | Terms |
+|--------|-------|
+| **Nature** | Virtual currency for in-app purchases |
+| **Purchase** | Real money required to acquire crystals |
+| **No Cash Value** | Crystals have no real-world monetary value |
+| **Non-Refundable** | All crystal purchases are final |
+| **Account Linkage** | Crystals are tied to your account; lost if account deleted |
+| **Expiration** | Crystals do not expire while account is active |
+
+---
+
+## 7. Disclaimers & Warnings
+
+### 7.1 Entertainment Purpose Only
+
+<div align="center">
+
+### 🎭 Brio is Fiction
+
+**NOT REAL. NOT HUMAN. NOT CONSCIOUS.**
+
+</div>
+
+- AI characters are **computer programs**, not people
+- AI **cannot** love you, miss you, or have real feelings
+- AI responses are **generated text**, not genuine thoughts
+- **Do not** develop emotional dependency on AI characters
+- **Do not** share personal information you wouldn't share publicly
+
+### 7.2 Mental Health Considerations
+
+Brio is not:
+- ❌ A substitute for professional mental health care
+- ❌ A replacement for real human relationships
+- ❌ Therapy, counseling, or crisis intervention
+
+**If you are experiencing mental health challenges:**
+- 🇺🇸 US: Call 988 (Suicide & Crisis Lifeline)
+- 🌍 International: Visit https://findahelpline.com
+- 🏥 Seek professional help from qualified therapists
+
+### 7.3 AI Limitations
+
+| Limitation | Explanation |
+|------------|-------------|
+| **May be Inaccurate** | AI can generate false or misleading information |
+| **May be Inconsistent** | Characters may occasionally act out of character |
+| **No Real Expertise** | AI advice on medical, legal, or financial matters is unreliable |
+| **Biased Outputs** | AI may reflect biases present in training data |
+| **No Memory Guarantee** | Character memory is simulated and may have gaps |
+
+---
+
+## 8. Limitation of Liability
+
+### 8.1 To the Maximum Extent Permitted by Law:
+
+**Brio is provided "AS IS" without warranties of any kind.**
+
+We are not liable for:
+- Indirect, incidental, special, or consequential damages
+- Loss of profits, data, or goodwill
+- Emotional distress or psychological harm
+- Damages resulting from AI-generated content
+- Service interruptions or data loss
+
+**Our total liability shall not exceed the amount you paid us in the 12 months preceding the claim.**
+
+### 8.2 Indemnification
+
+You agree to indemnify and hold harmless Brio from any claims arising from:
+- Your violation of these Terms
+- Your user-generated content
+- Your misuse of the Services
+- Your violation of any third-party rights
+
+---
+
+## 9. Dispute Resolution
+
+### 9.1 Informal Resolution
+
+Before filing a formal claim, contact us at **support@brio.app** to attempt resolution.
+
+### 9.2 Arbitration Agreement
+
+**For users in the United States:**
+
+Any dispute arising from these Terms will be resolved through **binding individual arbitration** administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules.
+
+- **Location:** Arbitration will be conducted in [Your State/City]
+- **Cost:** We will pay all arbitration fees for claims under $10,000
+- **Class Action Waiver:** You agree to resolve disputes individually; no class actions
+- **Opt-Out:** You may opt out within 30 days of first use by emailing legal@brio.app
+
+### 9.3 Governing Law
+
+These Terms are governed by the laws of **[Your State/Jurisdiction]**, without regard to conflict of law principles.
+
+---
+
+## 10. Changes to Terms
+
+We may modify these Terms at any time. When we do:
+
+- 📧 We'll email you for material changes
+- 📱 We'll show an in-app notice
+- 📅 Changes take effect 30 days after posting
+
+**Continued use after changes constitutes acceptance.**
+
+---
+
+## 11. General Provisions
+
+### 11.1 Severability
+
+If any provision is found invalid, the remaining provisions remain in full effect.
+
+### 11.2 Entire Agreement
+
+These Terms constitute the entire agreement between you and Brio.
+
+### 11.3 Assignment
+
+You may not assign these Terms without our written consent.
+
+### 11.4 Waiver
+
+Our failure to enforce any provision does not constitute a waiver.
+
+### 11.5 Force Majeure
+
+We are not liable for failures due to events beyond our reasonable control.
+
+---
+
+## 12. Contact Information
+
+<div align="center">
+
+### 📧 support@brio.app
+
+**Brio Legal Department**  
+[Your Company Address]  
+[City, State, ZIP Code]
+
+</div>
+
+---
+
+## 13. Apple App Store Additional Terms
+
+### 13.1 Acknowledgment
+
+Brio is made available through the Apple App Store. You acknowledge and agree that:
+
+- These Terms are between you and Brio, not with Apple
+- Apple has no obligation to provide support for the app
+- Your license to use the app is non-transferable
+
+### 13.2 Third-Party Beneficiary
+
+Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
+
+### 13.3 App Store Terms
+
+Your use of the app is also subject to the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html).
+
+---
+
+## 14. Subscription Specific Terms
+
+### 14.1 Free Trials
+
+- Trials convert to paid subscriptions unless canceled 24 hours before end
+- Payment method charged immediately upon trial conversion
+- Each user limited to one trial per subscription tier
+
+### 14.2 Price Changes
+
+- We may change subscription prices with 30 days notice
+- Continued use after price change constitutes acceptance
+- Cancel anytime if you do not accept new pricing
+
+### 14.3 Promotional Offers
+
+- First-time crystal purchases at promotional prices limited to one per user
+- Abuse of promotional offers (multiple accounts) may result in termination
+
+---
+
+## 15. Content Rating & Parental Guidance
+
+### 15.1 App Store Rating
+
+Brio is rated **17+** on the App Store for:
+- Frequent/Intense Mature/Suggestive Themes
+- Infrequent/Mild Sexual Content and Nudity
+- Infrequent/Mild Profanity or Crude Humor
+
+### 15.2 Parental Advisory
+
+**Parents and Guardians:** Brio is designed for adult users and may contain:
+- Romantic and relationship themes
+- Flirtatious and suggestive dialogue
+- Mature emotional scenarios
+
+**Use parental controls on iOS** to restrict app downloads if needed.
+
+---
+
+## 16. Beta Features & Experimental Content
+
+From time to time, we may offer beta or experimental features:
+
+- 🧪 Features marked as "Beta" or "Experimental" may have bugs
+- 📊 We may collect additional data to improve these features
+- ⚠️ Beta features may be modified or discontinued without notice
+- 📝 Separate terms may apply to specific beta programs
+
+---
+
+<div align="center">
+
+---
+
+**Thank you for using Brio responsibly.**
+
+*Remember: Brio is a story. Enjoy the narrative, but live your real life.*
+
+[Privacy Policy](./PRIVACY_POLICY.md) | [Support](mailto:support@brio.app) | [App Store](https://apps.apple.com/app/brio)
+
+**© 2026 Brio, Inc. All rights reserved.**
+
+</div>
