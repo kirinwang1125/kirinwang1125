@@ -110,7 +110,6 @@ Your data is stored securely using:
 |----------|---------|-------------|----------|
 | **Supabase** | PostgreSQL Database | User profiles, chat history, memories | United States (AWS US-East-1) |
 | **Apple** | iCloud/Screen Time | App preferences, iCloud backup | User's iCloud region |
-| **RevenueCat** | Subscription Management | Payment status, subscription tier | United States |
 
 ### 4.2 Security Measures
 
@@ -268,17 +267,11 @@ For privacy-related questions, requests, or concerns:
 
 <div align="center">
 
-### 📧 privacy@brio.app
+### 📧 kirinwang1125@gmail.com
 
 ### 📮 Mailing Address
-Brio Privacy Team  
-[Your Company Address]  
-[City, State, ZIP]
 
 </div>
-
-For Data Protection Officer inquiries (EU):
-- 📧 dpo@brio.app
 
 ---
 
@@ -319,6 +312,5 @@ We process the following special categories of data with explicit consent:
 
 *We are committed to maintaining the highest standards of privacy and data protection.*
 
-[Download Brio](https://apps.apple.com/app/brio) | [Contact Support](mailto:support@brio.app) | [Terms of Use](./TERMS_OF_USE.md)
 
 </div>
