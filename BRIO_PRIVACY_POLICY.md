@@ -141,12 +141,12 @@ Depending on your jurisdiction, you have the following rights:
 
 | Right | Description | How to Exercise |
 |-------|-------------|-----------------|
-| **Access** | Request a copy of your data | Email privacy@BOOMO.app |
+| **Access** | Request a copy of your data | Email service@boomoapp.cc |
 | **Rectification** | Correct inaccurate data | In-app Settings → Profile |
 | **Erasure** | Delete your account and data | Settings → Account → Delete Account |
 | **Portability** | Export your data | Settings → Privacy → Download Data |
-| **Restriction** | Limit processing of your data | Contact privacy@BOOMO.app |
-| **Objection** | Object to certain processing | Contact privacy@BOOMO.app |
+| **Restriction** | Limit processing of your data | Contact service@boomoapp.cc |
+| **Objection** | Object to certain processing | Contact service@boomoapp.cc|
 
 ### 5.2 In-App Privacy Controls
 
