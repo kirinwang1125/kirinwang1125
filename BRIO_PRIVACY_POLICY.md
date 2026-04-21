@@ -9,7 +9,7 @@
 
 ## 🔒 Your Privacy Matters to Us
 
-*At Brio, we believe that trust is the foundation of every meaningful connection — including the one between you and our platform.*
+*At BOOMO, we believe that trust is the foundation of every meaningful connection — including the one between you and our platform.*
 
 </div>
 
@@ -17,11 +17,11 @@
 
 ## 1. Introduction
 
-Welcome to **Brio** ("we," "our," or "us"). Brio is an AI-powered romance social simulation platform that creates immersive, personalized experiences through conversational AI characters.
+Welcome to **BOOMO** ("we," "our," or "us"). BOOMO is an AI-powered romance social simulation platform that creates immersive, personalized experiences through conversational AI characters.
 
 This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our iOS application and related services (collectively, the "Services").
 
-**By using Brio, you consent to the practices described in this Privacy Policy.**
+**By using BOOMO, you consent to the practices described in this Privacy Policy.**
 
 ---
 
@@ -141,12 +141,12 @@ Depending on your jurisdiction, you have the following rights:
 
 | Right | Description | How to Exercise |
 |-------|-------------|-----------------|
-| **Access** | Request a copy of your data | Email privacy@brio.app |
+| **Access** | Request a copy of your data | Email privacy@BOOMO.app |
 | **Rectification** | Correct inaccurate data | In-app Settings → Profile |
 | **Erasure** | Delete your account and data | Settings → Account → Delete Account |
 | **Portability** | Export your data | Settings → Privacy → Download Data |
-| **Restriction** | Limit processing of your data | Contact privacy@brio.app |
-| **Objection** | Object to certain processing | Contact privacy@brio.app |
+| **Restriction** | Limit processing of your data | Contact privacy@BOOMO.app |
+| **Objection** | Object to certain processing | Contact privacy@BOOMO.app |
 
 ### 5.2 In-App Privacy Controls
 
@@ -173,7 +173,7 @@ You may delete your account at any time:
 
 ### 6.1 AI Content Generation
 
-Brio uses Google's Gemini API for AI character responses. Important disclosures:
+BOOMO uses Google's Gemini API for AI character responses. Important disclosures:
 
 - ✅ **Not Human:** AI characters are simulated personas, not real people
 - ✅ **No Human Review:** Conversations are processed automatically without human reviewers
@@ -195,7 +195,7 @@ We use automated processing for:
 
 ## 7. Children's Privacy
 
-**Brio is not intended for users under 18 years of age.**
+**BOOMO is not intended for users under 18 years of age.**
 
 - We do not knowingly collect data from children under 18
 - If we discover a minor is using the service, we will delete their account immediately
@@ -236,7 +236,7 @@ We ensure adequate protection through:
 
 ## 10. Cookies & Tracking Technologies
 
-Brio uses minimal tracking:
+BOOMO uses minimal tracking:
 
 - 📱 **Device ID:** For authentication and fraud prevention
 - 📊 **Analytics:** Anonymous usage tracking (can be disabled)
@@ -267,7 +267,7 @@ For privacy-related questions, requests, or concerns:
 
 <div align="center">
 
-### 📧 kirinwang1125@gmail.com
+### 📧 service@boomoapp.cc
 
 ### 📮 Mailing Address
 
@@ -308,7 +308,7 @@ We process the following special categories of data with explicit consent:
 
 ---
 
-**Thank you for trusting Brio with your digital companionship experience.**
+**Thank you for trusting BOOMO with your digital companionship experience.**
 
 *We are committed to maintaining the highest standards of privacy and data protection.*
 
