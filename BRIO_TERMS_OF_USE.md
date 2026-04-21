@@ -7,9 +7,9 @@
 
 <div align="center">
 
-## 📜 Terms of Use for Brio
+## 📜 Terms of Use for BOOMO
 
-*Please read these terms carefully. By using Brio, you agree to be bound by these Terms of Use.*
+*Please read these terms carefully. By using BOOMO, you agree to be bound by these Terms of Use.*
 
 </div>
 
@@ -19,13 +19,13 @@
 
 ### 1.1 Binding Agreement
 
-These Terms of Use ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Brio, Inc. ("Brio," "we," "us," or "our") governing your access to and use of the Brio mobile application and related services (collectively, the "Services").
+These Terms of Use ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and BOOMO, Inc. ("BOOMO," "we," "us," or "our") governing your access to and use of the BOOMO mobile application and related services (collectively, the "Services").
 
-**BY DOWNLOADING, INSTALLING, OR USING BRIO, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
+**BY DOWNLOADING, INSTALLING, OR USING BOOMO, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
 
 ### 1.2 Age Requirement
 
-You must be **at least 16 years old** to use Brio. By using the Services, you represent and warrant that:
+You must be **at least 16 years old** to use BOOMO. By using the Services, you represent and warrant that:
 - You are 16 years of age or older
 - You have the legal capacity to enter into these Terms
 - All information you provide is accurate and truthful
@@ -40,7 +40,7 @@ You must be **at least 16 years old** to use Brio. By using the Services, you re
 
 ### ⚠️ IMPORTANT DISCLAIMER
 
-**Brio provides AI-generated content for entertainment purposes only.**
+**BOOMO provides AI-generated content for entertainment purposes only.**
 
 </div>
 
@@ -68,7 +68,7 @@ You must be **at least 16 years old** to use Brio. By using the Services, you re
 
 ### 3.1 Account Creation
 
-To use Brio, you must:
+To use BOOMO, you must:
 - Create an account with a valid email address or Apple Sign-In
 - Maintain the security of your account credentials
 - Notify us immediately of any unauthorized access
@@ -126,7 +126,7 @@ When interacting with AI characters:
 
 ### 5.1 Our Content
 
-Brio and its licensors own all rights to:
+BOOMO and its licensors own all rights to:
 - AI character designs and personalities
 - Software code and algorithms
 - Visual assets, artwork, and UI designs
@@ -140,7 +140,7 @@ You retain ownership of:
 - Your profile information
 - Content you create within the app
 
-**By using Brio, you grant us a license to:**
+**By using BOOMO, you grant us a license to:**
 - Store and process your content to provide the Services
 - Use anonymized content for service improvement
 - Moderate content to ensure compliance with these Terms
@@ -197,7 +197,7 @@ You may not:
 
 <div align="center">
 
-### 🎭 Brio is Fiction
+### 🎭 BOOMO is Fiction
 
 **NOT REAL. NOT HUMAN. NOT CONSCIOUS.**
 
@@ -211,7 +211,7 @@ You may not:
 
 ### 7.2 Mental Health Considerations
 
-Brio is not:
+BOOMO is not:
 - ❌ A substitute for professional mental health care
 - ❌ A replacement for real human relationships
 - ❌ Therapy, counseling, or crisis intervention
@@ -237,7 +237,7 @@ Brio is not:
 
 ### 8.1 To the Maximum Extent Permitted by Law:
 
-**Brio is provided "AS IS" without warranties of any kind.**
+**BOOMO is provided "AS IS" without warranties of any kind.**
 
 We are not liable for:
 - Indirect, incidental, special, or consequential damages
@@ -250,7 +250,7 @@ We are not liable for:
 
 ### 8.2 Indemnification
 
-You agree to indemnify and hold harmless Brio from any claims arising from:
+You agree to indemnify and hold harmless BOOMO from any claims arising from:
 - Your violation of these Terms
 - Your user-generated content
 - Your misuse of the Services
@@ -262,7 +262,7 @@ You agree to indemnify and hold harmless Brio from any claims arising from:
 
 ### 9.1 Informal Resolution
 
-Before filing a formal claim, contact us at **support@brio.app** to attempt resolution.
+Before filing a formal claim, contact us at **service@boomoapp.cc** to attempt resolution.
 
 ### 9.2 Arbitration Agreement
 
@@ -273,11 +273,11 @@ Any dispute arising from these Terms will be resolved through **binding individu
 - **Location:** Arbitration will be conducted in [Your State/City]
 - **Cost:** We will pay all arbitration fees for claims under $10,000
 - **Class Action Waiver:** You agree to resolve disputes individually; no class actions
-- **Opt-Out:** You may opt out within 30 days of first use by emailing legal@brio.app
+- **Opt-Out:** You may opt out within 30 days of first use by emailing service@boomoapp.cc
 
 ### 9.3 Governing Law
 
-These Terms are governed by the laws of **[Your State/Jurisdiction]**, without regard to conflict of law principles.
+These Terms are governed by the laws of **US**, without regard to conflict of law principles.
 
 ---
 
@@ -301,7 +301,7 @@ If any provision is found invalid, the remaining provisions remain in full effec
 
 ### 11.2 Entire Agreement
 
-These Terms constitute the entire agreement between you and Brio.
+These Terms constitute the entire agreement between you and BOOMO.
 
 ### 11.3 Assignment
 
@@ -321,7 +321,7 @@ We are not liable for failures due to events beyond our reasonable control.
 
 <div align="center">
 
-### 📧 kirinwang1125@gmail.com
+### 📧 service@boomoapp.cc
 
 </div>
 
@@ -331,9 +331,9 @@ We are not liable for failures due to events beyond our reasonable control.
 
 ### 13.1 Acknowledgment
 
-Brio is made available through the Apple App Store. You acknowledge and agree that:
+BOOMO is made available through the Apple App Store. You acknowledge and agree that:
 
-- These Terms are between you and Brio, not with Apple
+- These Terms are between you and BOOMO, not with Apple
 - Apple has no obligation to provide support for the app
 - Your license to use the app is non-transferable
 
@@ -372,14 +372,14 @@ Your use of the app is also subject to the [Apple Media Services Terms and Condi
 
 ### 15.1 App Store Rating
 
-Brio is rated **16+** on the App Store for:
+BOOMO is rated **16+** on the App Store for:
 - Frequent/Intense Mature/Suggestive Themes
 - Infrequent/Mild Sexual Content and Nudity
 - Infrequent/Mild Profanity or Crude Humor
 
 ### 15.2 Parental Advisory
 
-**Parents and Guardians:** Brio is designed for adult users and may contain:
+**Parents and Guardians:** BOOMO is designed for adult users and may contain:
 - Romantic and relationship themes
 - Flirtatious and suggestive dialogue
 - Mature emotional scenarios
@@ -403,10 +403,10 @@ From time to time, we may offer beta or experimental features:
 
 ---
 
-**Thank you for using Brio responsibly.**
+**Thank you for using BOOMO responsibly.**
 
-*Remember: Brio is a story. Enjoy the narrative, but live your real life.*
+*Remember: BOOMO is a story. Enjoy the narrative, but live your real life.*
 
-**© 2026 Brio, Inc. All rights reserved.**
+**© 2026 BOOMO, Inc. All rights reserved.**
 
 </div>
